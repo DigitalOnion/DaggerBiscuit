@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DaggerBiscuit</string>
+
+    <string name="no_base_info">No base component information</string>
+    <string name="no_subc_info">No sub component information</string>
+
+    <string name="base_info_after_injection">Just injected Base Info : %s</string>
+
 </resources>
